@@ -6,7 +6,7 @@ It uses [riffwave.js](http://www.codebase.es/riffwave/) to turn audio data into
 a DataURI, which can then be played back through an &lt;audio&gt; tag.
 
 # Demo
-http://acedio.github.io/animalese.js/.
+http://acedio.github.io/animalese.js/
 
 # Requirements
 * Riffwave - http://www.codebase.es/riffwave/
