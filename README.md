@@ -14,8 +14,8 @@ http://acedio.github.io/animalese.js/.
 * Blob.js - https://github.com/eligrey/Blob.js
 
 # Credits (I'm sorry, this is a fork and I have no way to credit with links)
-Pedro Ladaria 
-Eli Grey
+* Pedro Ladaria
+* Eli Grey
 
 # TODO
 * [✔️] Add Crypto Tracker at the /bottom/ top?
