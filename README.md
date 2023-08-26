@@ -1,4 +1,4 @@
-# animalese.js
+# animalese.js reworked in Bootstrap
 animalese.js is a JavaScript library that synthesizes an approximation of the
 villager speech sounds from Animal Crossing.
 
